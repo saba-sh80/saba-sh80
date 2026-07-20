@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Saba Shirazi 👋 ✨
 
-<!--
-**saba-sh80/saba-sh80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```developer
+const developer = {
+    name: "Saba Shirazi",
+    role: "Junior Frontend Developer",
+    currentFocus: ["Elevating Frontend Mastery", "Learning NestJS"],
+    futureGoals: "Diving into AI & Machine Learning 🤖",
+    passions: ["Responsive Web Design", "Modern UI/UX", "AI Advancements"]
+};
 
-Here are some ideas to get you started:
+🌟 About Me
+🚀 Frontend Developer passionate about crafting interactive, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Currently upgrading my frontend expertise and diving deep into NestJS for full-stack integration.
+
+🤖 Fascinated by the rapid advancements in Artificial Intelligence — actively preparing to step into the AI field in the near future!
+
+💡 Always eager to learn new technologies and build meaningful projects.
+
+🛠️ Tech Stack & Tools
+💻 Frontend & Styling
+⚙️ Backend & Languages
+📊 GitHub Stats
+📫 Let's Connect!
