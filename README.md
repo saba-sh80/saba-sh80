@@ -51,6 +51,6 @@
 
 <h3>📊 GitHub Overview</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saba-sh80&theme=tokyonight&background=1a1b26&ring=C8A2C8&fire=D8BFD8&currStreakLabel=C8A2C8" alt="GitHub Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saba-sh80&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saba-sh80&theme=tokyonight" alt="GitHub Profile Details" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saba-sh80&theme=tokyonight" alt="Repos Per Language" width="48%" />
 </p>
