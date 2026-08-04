@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>📈 Currently upgrading my frontend expertise and diving deep into NestJS for full-stack integration.
+  <b>📈 Currently upgrading my frontend expertise and diving deep into Python & Fast Api for full-stack integration.
 </p>
 
 <p align="center">
@@ -22,9 +22,6 @@
   <a href="https://www.linkedin.com/in/saba-iwn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/web-developer0101" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
 </p>
 
 ---
@@ -38,15 +35,15 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript_(Basic)-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Regex-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 <h3>⚙️ Backend, Languages & Goals</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/NestJS_(Learning)-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python_(Basic)-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_(Learning...)-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastApi_(Future_Goal)-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_&_Machine_Learning_(Future_Goal)-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
