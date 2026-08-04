@@ -43,8 +43,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python_(Learning...)-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NextJs_(Future_Goal)-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastApi_(Future_Goal)-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NextJs_(Future_Goal)-E0234E?style=for-the-badge&logo=nextjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastApi_(Future_Goal)-E0234E?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_&_Machine_Learning_(Future_Goal)-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
