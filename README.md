@@ -20,7 +20,8 @@ Name: Saba Shirazi
 Role: Frontend Developer
 Current Focus: React.js, Next.js, Tailwind CSS
 Learning & Growing: Python & FastAPI for Full-stack & AI Integration
-Passionate About: AI Engineering, Interactive UI/UX, and Web Technologies
+Passionate About: AI Engineering, Interactive UI/UX, and Web Technologie
+```
 
 ​🚀 Frontend Developer passionate about crafting interactive, responsive, and high-performance web applications.
 ​📈 Currently Upgrading my frontend skills with Next.js while diving deep into Python & FastAPI for seamless backend integration.
