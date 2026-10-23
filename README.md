@@ -1,6 +1,6 @@
 <h1 align="center">Hi there❤️, I'm Saba Shirazi 👋</h1>
 
-<h3 align="center">🌟 About Me</h3>
+<h3 align="center">✨️ About Me</h3>
 
 <p align="center">
   <b>🚀 Frontend Developer passionate about crafting interactive, responsive, and user-friendly web applications.
