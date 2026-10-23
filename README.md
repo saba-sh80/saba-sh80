@@ -23,12 +23,18 @@ Learning & Growing: Python & FastAPI for Full-stack & AI Integration
 Passionate About: AI Engineering, Interactive UI/UX, and Web Technologie
 ```
 
-​🚀 Frontend Developer passionate about crafting interactive, responsive, and high-performance web applications.
-​📈 Currently Upgrading my frontend skills with Next.js while diving deep into Python & FastAPI for seamless backend integration.
-​🤖 AI Enthusiast actively building a foundation to transition into Applied AI Engineering.
-​💡 Always eager to contribute to open-source, learn cutting-edge tools, and build impactful digital experiences!
-​🛠 Tech Stack & Tools
-​🌐 Frontend & UI Frameworks
+<p>​🚀 Frontend Developer passionate about crafting interactive, responsive, and high-performance web applications.
+</p>
+<p>​📈 Currently Upgrading my frontend skills with Next.js while diving deep into Python & FastAPI for seamless backend integration.
+</p>
+<p>​🤖 AI Enthusiast actively building a foundation to transition into Applied AI Engineering.
+</p>
+<p​>💡 Always eager to contribute to open-source, learn cutting-edge tools, and build impactful digital experiences!
+</p>
+
+<h2>​🛠 Tech Stack & Tools</h2>
+
+<h3>​🌐 Frontend & UI Frameworks</h3>
 ​<p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -39,7 +45,7 @@ Passionate About: AI Engineering, Interactive UI/UX, and Web Technologie
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
-​⚙️ Backend, AI & Goals
+<h3>​⚙️ Backend, AI & Goals</h3>
 ​<p>
 <img src="https://img.shields.io/badge/Python_(Learning)-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI_(Goal)-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -47,7 +53,7 @@ Passionate About: AI Engineering, Interactive UI/UX, and Web Technologie
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-📊 GitHub Analytics
+<h2>📊 GitHub Analytics</h2>
 ​<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saba-sh80&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saba-sh80&layout=compact&theme=tokyonight&hide=html,css"/>
